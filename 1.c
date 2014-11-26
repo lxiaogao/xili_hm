@@ -6,4 +6,5 @@ puts("xiaogao");
 puts("xiaogao");
 puts("xiaoga3");
 puts("xiaoga4");
+add
 }
